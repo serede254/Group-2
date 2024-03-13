@@ -35,11 +35,25 @@ padding-left: 15px;
  }
  h2{
     font-size: 24px;
+    text-decoration: underline;
+    text-align: center;
  }
  p{
     font-size: 20px;
  }
- .order li{
-    font-size: 16px;
+ .order {
+    font-size: 20px;
  }
- 
+ footer{
+   color: white;
+   background-color:black;
+   padding: .5rem;
+
+}
+.contact{
+    text-align: center;
+}
+.mails{
+   display: flex;
+   gap: 20rem;
+}

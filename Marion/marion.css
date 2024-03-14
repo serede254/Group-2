@@ -11,7 +11,7 @@ font-family: Helvetica, Arial, Georgia, Tahoma, Roboto
 h2{
     text-align: center;
     font-size: 18pt
-    font-style: italic;
+    font-style:italic;
      
 }
 
@@ -39,4 +39,27 @@ background-repeat:inherit;
  li{
     font-size: 18pt;
  }
-    
+ .navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 15px;
+    padding-left: 15px; 
+}
+ 
+.navdiv{
+text-align: center;
+       
+    }
+
+    .navlist {
+        list-style: none;
+        
+    }
+    .navlist li{
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 30px;
+    }
+    a{
+        color: black;
+    }

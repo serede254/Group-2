@@ -1,0 +1,42 @@
+ h1{
+    background-image: url("./Beige 02 Matt 2_5L.jpeg");
+   background-repeat: repeat-x;
+   height: auto;
+   width: auto;
+text-align: center;
+font-size: 80px;
+font-style: italic;
+font-family: Helvetica, Arial, Georgia, Tahoma, Roboto
+}
+h2{
+    text-align: center;
+    font-size: 18pt
+    font-style: italic;
+     
+}
+
+.Sagrada{
+    width: 736px;
+    height: 1097px;;
+    float: left;
+
+    padding: 50px;
+    background-image: url(./📍Barcelona\,Spain🇪🇸.jpeg);
+    display: block;
+background-repeat:inherit;
+}
+.Dream-vacation::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.spain p{
+    font-size: 18pt;
+}
+ p{
+    font-size: 18pt;
+ }
+ li{
+    font-size: 18pt;
+ }
+    

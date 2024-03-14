@@ -1,5 +1,5 @@
  h1{
-    background-image: url("./Beige 02 Matt 2_5L.jpeg");
+    background-image: url("Marion/Beige\ 02\ Matt\ 2_5L.jpeg");
    background-repeat: repeat-x;
    height: auto;
    width: auto;
@@ -21,7 +21,7 @@ h2{
     float: left;
 
     padding: 50px;
-    background-image: url(./📍Barcelona\,Spain🇪🇸.jpeg);
+    background-image: url(Marion/📍Barcelona\,Spain🇪🇸.jpeg);
     display: block;
 background-repeat:inherit;
 }

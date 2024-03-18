@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-pic {
+    width: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+    display: block;
+}
+
+.info {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.info h2 {
+    color: #333;
+}
+
+.info p {
+    margin-bottom: 10px;
+}
+
+.philosophy {
+    margin-top: 20px;
+}
+
+.philosophy p {
+    font-style: italic;
+}
+
+.hobbies {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.hobbies ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.hobbies ul li {
+    margin-bottom: 5px;
+}
+
+.dream-vacation {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.dream-vacation img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 15px;
+    padding-left: 15px; 
+}
+ 
+.navdiv{
+text-align: center;
+       
+    }
+
+    .navlist {
+        list-style: none;
+        
+    }
+    .navlist li{
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 30px;
+    }
+    a{
+        color: black;
+    }

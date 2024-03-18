@@ -1,0 +1,65 @@
+ h1{
+    background-image: url("Marion/Beige\ 02\ Matt\ 2_5L.jpeg");
+   background-repeat: repeat-x;
+   height: auto;
+   width: auto;
+text-align: center;
+font-size: 80px;
+font-style: italic;
+font-family: Helvetica, Arial, Georgia, Tahoma, Roboto
+}
+h2{
+    text-align: center;
+    font-size: 18pt
+    font-style:italic;
+     
+}
+
+.Sagrada{
+    width: 736px;
+    height: 1097px;;
+    float: left;
+
+    padding: 50px;
+    background-image: url(Marion/📍Barcelona\,Spain🇪🇸.jpeg);
+    display: block;
+background-repeat:inherit;
+}
+.Dream-vacation::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.spain p{
+    font-size: 18pt;
+}
+ p{
+    font-size: 18pt;
+ }
+ li{
+    font-size: 18pt;
+ }
+ .navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 15px;
+    padding-left: 15px; 
+}
+ 
+.navdiv{
+text-align: center;
+       
+    }
+
+    .navlist {
+        list-style: none;
+        
+    }
+    .navlist li{
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 30px;
+    }
+    a{
+        color: black;
+    }
